@@ -1,0 +1,2 @@
+/*da se napishe programa koja kje go najde redot so najgolem broj na posledovatelni povtoruvanja na soglaski
+i kje gi ispechati zaedno so toj red */
